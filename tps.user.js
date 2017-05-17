@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TagPro Shortcuts
-// @version      0.1
+// @version      0.2
 // @description  Starting a game is even simpler now.
 // @downloadURL  https://github.com/wilcooo/TagProShortcuts/raw/master/tps.user.js
 
