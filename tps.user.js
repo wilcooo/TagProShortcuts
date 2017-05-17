@@ -2,7 +2,7 @@
 // @name         TagPro Shortcuts
 // @version      0.1
 // @description  Starting a game is even simpler now.
-// @downloadURL  https://gist.github.com/wilcooo/2933ebcbfb5e245a599834d31e4a2d2b/raw/ac7d8a1c21ed391956acecb6299d85dd3e57bc5e/TagProShortcuts.user.js
+// @downloadURL  https://github.com/wilcooo/TagProShortcuts/raw/master/tps.user.js
 // @include      http://tagpro-*.koalabeast.com:*
 // @include      http://tangent.jukejuice.com:*
 // @include      http://*.newcompte.fr:*
